@@ -1,0 +1,1 @@
+(()=>{alert("Hello Jonathan");let e=document.getElementById("menu");document.createElement("li").textContent="About Us",console.log(e)})();
